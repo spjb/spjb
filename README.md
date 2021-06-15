@@ -1,16 +1,15 @@
-### Hi there 👋
+### Good day, I'm Shaun Barry
 
-<!--
-**spjb/spjb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me 🔷
 
-Here are some ideas to get you started:
+Dev is life. Design is my love. 
+Photoshop, Illustrator and vsCode(with many extensions) are my main apps.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# SCSS | HTML☕ | JS | Python🐍 | Docker(Portainer) | AWS | Gulp | Networking | ThinkPad(t480s)💻 | 23tb(DataHoarder)🖥️
+
+I'm a huge Raspberry Pi enthusiast. Pi400, Pi4b(4Gb), Pi4b(8Gb), PiZeroW and a Pi2b+ running Pi-Hole.
+Always staying up to date with the latest Web Standards and best practices. 
+
+Highly proficient operating system admin and network admin with Windows and Linux machines. 
+
+### spjb on Libera.chat
