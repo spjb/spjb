@@ -1,4 +1,4 @@
-# Good day, I'm Shaun Barry
+### Good day, I'm Shaun Barry
 
 ## About Me 🔷
 
